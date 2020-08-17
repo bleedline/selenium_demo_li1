@@ -1,0 +1,71 @@
+[ {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:8087/job/test_excise/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "http://localhost:8087/job/test_excise/14/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8087/job/test_excise/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8087/job/test_excise/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8087/job/test_excise/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8087/job/test_excise/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8087/job/test_excise/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8087/job/test_excise/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8087/job/test_excise/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8087/job/test_excise/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+} ]

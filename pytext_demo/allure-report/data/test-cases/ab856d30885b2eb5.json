@@ -1,0 +1,195 @@
+{
+  "uid" : "ab856d30885b2eb5",
+  "name" : "test_login[login_r1-query_param1]",
+  "fullName" : "test_mark_param_01#test_login",
+  "historyId" : "77f47d75b4fb72f04a74d9806bb0bf7d",
+  "time" : {
+    "start" : 1596763214950,
+    "stop" : 1596763214951,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_r",
+    "time" : {
+      "start" : 1596763214948,
+      "stop" : 1596763214949,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "query_param",
+    "time" : {
+      "start" : 1596763214941,
+      "stop" : 1596763214941,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mark_param_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "25448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mark_param_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "login_r",
+    "value" : "{'user': 'lijian', 'password': 'root1234'}"
+  }, {
+    "name" : "query_param",
+    "value" : "{'q': 'appium', 'count': 1, 'page': 1}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71fb31c51236bed8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596702827344,
+        "stop" : 1596702827345,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "3b011f668a4045fc",
+        "reportUrl" : "http://localhost:8087/job/test_excise/15/allure/#testresult/3b011f668a4045fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763214950,
+          "stop" : 1596763214951,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "eb7441d75b8a2182",
+        "reportUrl" : "http://localhost:8087/job/test_excise/14/allure/#testresult/eb7441d75b8a2182",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763214950,
+          "stop" : 1596763214951,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "b35a0b603ce6fa06",
+        "reportUrl" : "http://localhost:8087/job/test_excise/12/allure/#testresult/b35a0b603ce6fa06",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763214950,
+          "stop" : 1596763214951,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3c3f43d50d667050",
+        "reportUrl" : "http://localhost:8087/job/test_excise/10/allure/#testresult/3c3f43d50d667050",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763214950,
+          "stop" : 1596763214951,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ed05f0bfd43e929c",
+        "reportUrl" : "http://localhost:8087/job/test_excise/9/allure/#testresult/ed05f0bfd43e929c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5833a8932395fa22",
+        "reportUrl" : "http://localhost:8087/job/test_excise/8/allure/#testresult/5833a8932395fa22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ee52ac50ecd5acf6",
+        "reportUrl" : "http://localhost:8087/job/test_excise/7/allure/#testresult/ee52ac50ecd5acf6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5ffe125c9e9c363a",
+        "reportUrl" : "http://localhost:8087/job/test_excise/6/allure/#testresult/5ffe125c9e9c363a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "8372c9f5673cc2d9",
+        "reportUrl" : "http://localhost:8087/job/test_excise/5/allure/#testresult/8372c9f5673cc2d9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "67be010981abe2be",
+        "reportUrl" : "http://localhost:8087/job/test_excise/4/allure/#testresult/67be010981abe2be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827344,
+          "stop" : 1596702827345,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ab856d30885b2eb5.json",
+  "parameterValues" : [ "{'user': 'lijian', 'password': 'root1234'}", "{'q': 'appium', 'count': 1, 'page': 1}" ]
+}

@@ -1,0 +1,219 @@
+{
+  "uid" : "dc3826e69196af3f",
+  "name" : "test_fuction_01",
+  "fullName" : "test_pytest_framework#test_fuction_01",
+  "historyId" : "50b7722bbd499227fa2774939acdd60f",
+  "time" : {
+    "start" : 1596763215134,
+    "stop" : 1596763215134,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Module__pytest_setup_module",
+    "time" : {
+      "start" : 1596763215132,
+      "stop" : 1596763215132,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Module__pytest_setup_function",
+    "time" : {
+      "start" : 1596763215133,
+      "stop" : 1596763215133,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Module__pytest_setup_module::0",
+    "time" : {
+      "start" : 1596763215177,
+      "stop" : 1596763215177,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Module__pytest_setup_function::0",
+    "time" : {
+      "start" : 1596763215135,
+      "stop" : 1596763215135,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest_framework"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "25448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_framework"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67dd415e57ce3be5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596702827537,
+        "stop" : 1596702827537,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "9ede2ba33f0b7677",
+        "reportUrl" : "http://localhost:8087/job/test_excise/15/allure/#testresult/9ede2ba33f0b7677",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215134,
+          "stop" : 1596763215134,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "35588baf20683fc0",
+        "reportUrl" : "http://localhost:8087/job/test_excise/14/allure/#testresult/35588baf20683fc0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215134,
+          "stop" : 1596763215134,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9127f0aceb8e713a",
+        "reportUrl" : "http://localhost:8087/job/test_excise/12/allure/#testresult/9127f0aceb8e713a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215134,
+          "stop" : 1596763215134,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "62b3b736cd08ae15",
+        "reportUrl" : "http://localhost:8087/job/test_excise/10/allure/#testresult/62b3b736cd08ae15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215134,
+          "stop" : 1596763215134,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5be28ac0595446df",
+        "reportUrl" : "http://localhost:8087/job/test_excise/9/allure/#testresult/5be28ac0595446df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "44514f2618c0fe12",
+        "reportUrl" : "http://localhost:8087/job/test_excise/8/allure/#testresult/44514f2618c0fe12",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d4cfe768c304e437",
+        "reportUrl" : "http://localhost:8087/job/test_excise/7/allure/#testresult/d4cfe768c304e437",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "686a744a84917f1b",
+        "reportUrl" : "http://localhost:8087/job/test_excise/6/allure/#testresult/686a744a84917f1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "177515ad02060875",
+        "reportUrl" : "http://localhost:8087/job/test_excise/5/allure/#testresult/177515ad02060875",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c3f87868f429b1d4",
+        "reportUrl" : "http://localhost:8087/job/test_excise/4/allure/#testresult/c3f87868f429b1d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827537,
+          "stop" : 1596702827537,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "dc3826e69196af3f.json",
+  "parameterValues" : [ ]
+}

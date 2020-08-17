@@ -1,0 +1,56 @@
+{
+  "uid" : "f5d5158a5c88103d",
+  "name" : "test_jisuan[3*5-8]",
+  "fullName" : "test_mark_param_list#test_jisuan",
+  "historyId" : "b22e13b02b038e480d2e679d5fb3289e",
+  "time" : {
+    "start" : 1596702827418,
+    "stop" : 1596702827418,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+  "statusTrace" : "test_input = '3*5', expected = 8\n\n    @pytest.mark.parametrize(\"test_input,expected\",[(\"3+5\",8),\n                                                    (\"13+5\",18),\n                                                    (\"3*5\",8),\n                                                    ])\n    def test_jisuan(test_input,expected):\n>       assert eval(test_input)==expected\nE       assert 15 == 8\nE         -15\nE         +8\n\ntest_mark_param_list.py:9: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "2240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected",
+    "value" : "8"
+  }, {
+    "name" : "test_input",
+    "value" : "'3*5'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5d5158a5c88103d.json",
+  "parameterValues" : [ "8", "'3*5'" ]
+}

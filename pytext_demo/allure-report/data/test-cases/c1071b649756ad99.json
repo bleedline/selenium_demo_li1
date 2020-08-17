@@ -1,0 +1,53 @@
+{
+  "uid" : "c1071b649756ad99",
+  "name" : "test_assert_2",
+  "fullName" : "test_pytest_assert#test_assert_2",
+  "historyId" : "dba16b207dd34a4653b2c4cd87504e50",
+  "time" : {
+    "start" : 1596702827497,
+    "stop" : 1596702827497,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: android平台没有这个功能",
+  "statusTrace" : "('test_pytest_assert.py', 18, 'Skipped: android平台没有这个功能')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif('environment==\"android\"', reason='android平台没有这个功能')"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "2240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif('environment==\"android\"', reason='android平台没有这个功能')" ]
+  },
+  "source" : "c1071b649756ad99.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,182 @@
+{
+  "uid" : "a274540017d81248",
+  "name" : "test_jisuan[3*5-8]",
+  "fullName" : "test_mark_param_list#test_jisuan",
+  "historyId" : "b22e13b02b038e480d2e679d5fb3289e",
+  "time" : {
+    "start" : 1596763215029,
+    "stop" : 1596763215029,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+  "statusTrace" : "test_input = '3*5', expected = 8\n\n    @pytest.mark.parametrize(\"test_input,expected\",[(\"3+5\",8),\n                                                    (\"13+5\",18),\n                                                    (\"3*5\",8),\n                                                    ])\n    def test_jisuan(test_input,expected):\n>       assert eval(test_input)==expected\nE       assert 15 == 8\nE         -15\nE         +8\n\ntest_mark_param_list.py:9: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "25448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected",
+    "value" : "8"
+  }, {
+    "name" : "test_input",
+    "value" : "'3*5'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f5d5158a5c88103d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+      "time" : {
+        "start" : 1596702827418,
+        "stop" : 1596702827418,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 11,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "f32b8b9ee869d24b",
+        "reportUrl" : "http://localhost:8087/job/test_excise/15/allure/#testresult/f32b8b9ee869d24b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596763215029,
+          "stop" : 1596763215029,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1ed62196e8e39bc3",
+        "reportUrl" : "http://localhost:8087/job/test_excise/14/allure/#testresult/1ed62196e8e39bc3",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596763215029,
+          "stop" : 1596763215029,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "403749040964e98b",
+        "reportUrl" : "http://localhost:8087/job/test_excise/12/allure/#testresult/403749040964e98b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596763215029,
+          "stop" : 1596763215029,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "621a9bc381365be7",
+        "reportUrl" : "http://localhost:8087/job/test_excise/10/allure/#testresult/621a9bc381365be7",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596763215029,
+          "stop" : 1596763215029,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "da68a165c97b2e52",
+        "reportUrl" : "http://localhost:8087/job/test_excise/9/allure/#testresult/da68a165c97b2e52",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a12d23f9f90f906a",
+        "reportUrl" : "http://localhost:8087/job/test_excise/8/allure/#testresult/a12d23f9f90f906a",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "868d473a81edd1ed",
+        "reportUrl" : "http://localhost:8087/job/test_excise/7/allure/#testresult/868d473a81edd1ed",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b8d1779e22073eee",
+        "reportUrl" : "http://localhost:8087/job/test_excise/6/allure/#testresult/b8d1779e22073eee",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d5364180d74b72f8",
+        "reportUrl" : "http://localhost:8087/job/test_excise/5/allure/#testresult/d5364180d74b72f8",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3564d9e563ee620b",
+        "reportUrl" : "http://localhost:8087/job/test_excise/4/allure/#testresult/3564d9e563ee620b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 15 == 8\n  -15\n  +8",
+        "time" : {
+          "start" : 1596702827418,
+          "stop" : 1596702827418,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a274540017d81248.json",
+  "parameterValues" : [ "8", "'3*5'" ]
+}

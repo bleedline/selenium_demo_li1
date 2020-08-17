@@ -1,0 +1,282 @@
+{
+  "uid" : "971df8af4d38fb6d",
+  "name" : "test_method_01",
+  "fullName" : "test_pytest_framework.TestClassDemo#test_method_01",
+  "historyId" : "aef87a96c93484b1af94e0911636a66e",
+  "time" : {
+    "start" : 1596763215155,
+    "stop" : 1596763215155,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Module__pytest_setup_module",
+    "time" : {
+      "start" : 1596763215132,
+      "stop" : 1596763215132,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1596763215149,
+      "stop" : 1596763215151,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1596763215152,
+      "stop" : 1596763215155,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Module__pytest_setup_function",
+    "time" : {
+      "start" : 1596763215151,
+      "stop" : 1596763215151,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_Module__pytest_setup_module::0",
+    "time" : {
+      "start" : 1596763215177,
+      "stop" : 1596763215177,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1596763215175,
+      "stop" : 1596763215175,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1596763215156,
+      "stop" : 1596763215156,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Module__pytest_setup_function::0",
+    "time" : {
+      "start" : 1596763215158,
+      "stop" : 1596763215158,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest_framework"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClassDemo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "25448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_framework"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c90bf4371500aa6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596702827561,
+        "stop" : 1596702827562,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "e684cf8a02fb946e",
+        "reportUrl" : "http://localhost:8087/job/test_excise/15/allure/#testresult/e684cf8a02fb946e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215155,
+          "stop" : 1596763215155,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9dc91685639a385",
+        "reportUrl" : "http://localhost:8087/job/test_excise/14/allure/#testresult/9dc91685639a385",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215155,
+          "stop" : 1596763215155,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "7651e9d387318edd",
+        "reportUrl" : "http://localhost:8087/job/test_excise/12/allure/#testresult/7651e9d387318edd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215155,
+          "stop" : 1596763215155,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6a94e6093e1439c7",
+        "reportUrl" : "http://localhost:8087/job/test_excise/10/allure/#testresult/6a94e6093e1439c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596763215155,
+          "stop" : 1596763215155,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f3f51ae15c805a45",
+        "reportUrl" : "http://localhost:8087/job/test_excise/9/allure/#testresult/f3f51ae15c805a45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "c450c0e23ea4842e",
+        "reportUrl" : "http://localhost:8087/job/test_excise/8/allure/#testresult/c450c0e23ea4842e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "b983a68f31e0fe63",
+        "reportUrl" : "http://localhost:8087/job/test_excise/7/allure/#testresult/b983a68f31e0fe63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "6351e343f11fd3bf",
+        "reportUrl" : "http://localhost:8087/job/test_excise/6/allure/#testresult/6351e343f11fd3bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "f7d2b1c28e5a492c",
+        "reportUrl" : "http://localhost:8087/job/test_excise/5/allure/#testresult/f7d2b1c28e5a492c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "637707322ed1b60",
+        "reportUrl" : "http://localhost:8087/job/test_excise/4/allure/#testresult/637707322ed1b60",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596702827561,
+          "stop" : 1596702827562,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "971df8af4d38fb6d.json",
+  "parameterValues" : [ ]
+}

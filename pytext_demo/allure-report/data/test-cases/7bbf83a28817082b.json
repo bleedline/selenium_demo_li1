@@ -1,0 +1,53 @@
+{
+  "uid" : "7bbf83a28817082b",
+  "name" : "test_assert_demo",
+  "fullName" : "test_pytest_assert#test_assert_demo",
+  "historyId" : "b549e88fed70ce1f93a8e05322ebff46",
+  "time" : {
+    "start" : 1596702827482,
+    "stop" : 1596702827482,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: windows系统下不运行",
+  "statusTrace" : "('test_pytest_assert.py', 4, 'Skipped: windows系统下不运行')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(False, reason='3.6版本以下不执行，你需求更高版本')"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "2240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(False, reason='3.6版本以下不执行，你需求更高版本')" ]
+  },
+  "source" : "7bbf83a28817082b.json",
+  "parameterValues" : [ ]
+}

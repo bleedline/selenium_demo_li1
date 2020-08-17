@@ -1,0 +1,175 @@
+{
+  "uid" : "39e5c4312adc9a8a",
+  "name" : "test_assert_demo",
+  "fullName" : "test_pytest_assert#test_assert_demo",
+  "historyId" : "b549e88fed70ce1f93a8e05322ebff46",
+  "time" : {
+    "start" : 1596763215079,
+    "stop" : 1596763215079,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: windows系统下不运行",
+  "statusTrace" : "('test_pytest_assert.py', 4, 'Skipped: windows系统下不运行')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(False, reason='3.6版本以下不执行，你需求更高版本')"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "25448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest_assert"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7bbf83a28817082b",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: windows系统下不运行",
+      "time" : {
+        "start" : 1596702827482,
+        "stop" : 1596702827482,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 11,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "2f312ff05aebb9f",
+        "reportUrl" : "http://localhost:8087/job/test_excise/15/allure/#testresult/2f312ff05aebb9f",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596763215079,
+          "stop" : 1596763215079,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c2b2b2513117ea13",
+        "reportUrl" : "http://localhost:8087/job/test_excise/14/allure/#testresult/c2b2b2513117ea13",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596763215079,
+          "stop" : 1596763215079,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "178db3492b270fac",
+        "reportUrl" : "http://localhost:8087/job/test_excise/12/allure/#testresult/178db3492b270fac",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596763215079,
+          "stop" : 1596763215079,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8d50d5c803a7d6c9",
+        "reportUrl" : "http://localhost:8087/job/test_excise/10/allure/#testresult/8d50d5c803a7d6c9",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596763215079,
+          "stop" : 1596763215079,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "fba96720f8904e1",
+        "reportUrl" : "http://localhost:8087/job/test_excise/9/allure/#testresult/fba96720f8904e1",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "fe5db864596da53e",
+        "reportUrl" : "http://localhost:8087/job/test_excise/8/allure/#testresult/fe5db864596da53e",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "8629f79278e5683",
+        "reportUrl" : "http://localhost:8087/job/test_excise/7/allure/#testresult/8629f79278e5683",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e6d7131b52a55dd8",
+        "reportUrl" : "http://localhost:8087/job/test_excise/6/allure/#testresult/e6d7131b52a55dd8",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "531536cbd8ab8169",
+        "reportUrl" : "http://localhost:8087/job/test_excise/5/allure/#testresult/531536cbd8ab8169",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "991874098eacfe17",
+        "reportUrl" : "http://localhost:8087/job/test_excise/4/allure/#testresult/991874098eacfe17",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: windows系统下不运行",
+        "time" : {
+          "start" : 1596702827482,
+          "stop" : 1596702827482,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.skipif(False, reason='3.6版本以下不执行，你需求更高版本')" ]
+  },
+  "source" : "39e5c4312adc9a8a.json",
+  "parameterValues" : [ ]
+}

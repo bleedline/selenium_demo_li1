@@ -1,0 +1,54 @@
+{
+  "uid" : "2afe2f6924e0f6ba",
+  "name" : "test_interface_hrm[test_datal0-excepted_resultl0]",
+  "fullName" : "test_mark_param_list#test_interface_hrm",
+  "historyId" : "9ff5692146b7a46ca4ac7d0345bfa7b1",
+  "time" : {
+    "start" : 1596702827473,
+    "stop" : 1596702827474,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RU1KMSM"
+  }, {
+    "name" : "thread",
+    "value" : "2240-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mark_param_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "excepted_resultl",
+    "value" : "{'code': 200, 'info': 'ok'}"
+  }, {
+    "name" : "test_datal",
+    "value" : "{'username': 'admin', 'password': 'root12345'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2afe2f6924e0f6ba.json",
+  "parameterValues" : [ "{'code': 200, 'info': 'ok'}", "{'username': 'admin', 'password': 'root12345'}" ]
+}
